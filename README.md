@@ -1,10 +1,2 @@
-👋 Hi, I’m Adams
-
-👀 I’m interested in Software Engineering, IoT, AI/ML and Research.
-
-🌱 I’ve completed my Associate's degree in Computer Science at the Community College of Baltimore County (CCBC) and I transferred to the University of Maryland Baltimore County (UMBC) to complete my Bachelor's degree in the same field.
-
-💞️ I'm currently an assistant programmer at CCBC's app development department.
-
-📫 you can reach me @ejizadam@yahoo.com.
+Hello, my name is Adams, and I’m a final-year Computer Science student at the University of Maryland, Baltimore County. I’m deeply passionate about technology, with a strong desire to become a software engineer who leverages artificial intelligence to build smarter, more adaptive applications.
 
